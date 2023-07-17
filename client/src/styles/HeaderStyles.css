@@ -1,0 +1,48 @@
+.layout {
+    min-height: 70vh;
+    background-color: #EDE6DB;
+}
+
+/* 
+.dashboard {
+    background-color: #DEB6AB;
+} */
+
+.dashboard .card {
+    background-color: #EDE6DB;
+    color: black;
+    border: none;
+}
+
+.dashboard-menu .list-group h4 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.dashboard-menu .list-group {
+    background-color: transparent !important;
+}
+
+.list-group {
+    background-color: #DEB6AB;
+}
+
+.dashboard .list-group .list-group-item {
+    /* background-color: #AC7D88; */
+    /* color: white; */
+    border-color: black;
+    border-width: 2px;
+}
+
+.dropdown-menu :hover {
+    background-color: #343A40;
+}
+
+.card {
+    background-color: #DEB6AB;
+}
+
+.form-select {
+    background-color: white;
+    color: black;
+}
